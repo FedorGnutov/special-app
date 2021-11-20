@@ -1,10 +1,11 @@
-<<<<<<< HEAD
 
->>>>>>> new-branch
+green
+
+x+y+z
+
 
 1+2+3=6
 
 print('1234567')
 
-print('konflict')
-new contact
+
