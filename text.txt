@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 green
+=======
+x+y+z
+>>>>>>> new-branch
 
 
 print('1234567')
